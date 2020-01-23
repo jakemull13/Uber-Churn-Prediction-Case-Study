@@ -48,8 +48,8 @@ your predictions.
 
 5. Discuss the validity of your model. Issues such as
 leakage.  For more on leakage, see [this essay on
-Kaggle](https://www.kaggle.com/wiki/Leakage), and this paper: [Leakage in Data
-Mining: Formulation, Detection, and Avoidance](https://www.cs.umb.edu/~ding/history/470_670_fall_2011/papers/cs670_Tran_PreferredPaper_LeakingInDataMining.pdf).
+Kaggle](https://www.kaggle.com/dansbecker/data-leakage), and this paper: [Leakage in Data
+Mining: Formulation, Detection, and Avoidance](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.365.7769&rep=rep1&type=pdf).
 
 6. Repeat 2 - 5 until you have a satisfactory model.
 
